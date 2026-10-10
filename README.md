@@ -1,6 +1,6 @@
-I'm a senior majoring in Computer Science at the University of Arizona.
+Founding Engineer @ MyPeps
 
-Python, Java, Go
+Python, Java, Rust
 
 * 📧 [Email me](mailto:dkc04@arizona.edu)
 * 💼 [LinkedIn Profile](https://linkedin.com/in/dipsonkc)
